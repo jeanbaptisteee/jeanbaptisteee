@@ -32,13 +32,12 @@
 ### 📊 Mes Statistiques GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeanbaptisteee&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=jeanbaptisteee&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="stats graph" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanbaptisteee&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="languages graph"  />
-</div>
+  </div>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeanbaptisteee&theme=radical&hide_border=true&background=0d1117" />
+  <img src="https://streak-stats.demolab.com?user=jeanbaptisteee&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
