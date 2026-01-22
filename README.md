@@ -33,13 +33,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jeanbaptisteee&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="stats graph" />
   
   </div>
-  <div align="center">
-  <p>
-    <a href="https://github.com/jeanbaptisteee">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-  </p>
-</div>
+
 
 ---
 
