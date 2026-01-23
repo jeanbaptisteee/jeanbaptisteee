@@ -53,3 +53,12 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jeanbaptisteee&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="stats graph" />
 </div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=jeanbaptisteee&label=VUES&style=for-the-badge&color=0e75b6" alt="Compteur de vues" />
+</div>
+<div align="center">
+  <br/>
+  <img src="https://readme-jokes.vercel.app/api?theme=dark" alt="Jokes Card" />
+  <br/>
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
